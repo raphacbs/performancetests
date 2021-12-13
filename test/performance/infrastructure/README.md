@@ -10,6 +10,7 @@ This repository contains the performance tests configurations to create, maintai
 * Version
 1.0
 
+$ tree -a
 
 ### Folders' structure ###
     
